@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f999e1-d0fb-434a-a4f0-1f0c4a84751c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hotel Management System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/driverPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1single bed room(2000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/2bhk(10000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5 bhk(13000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Exam form pranay.PDF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ID1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/R(3000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Recep h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hall recpe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hall(52000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hall(56000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/karma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reception H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reception hall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/reception1234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/siteface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/two-single-bed-room(2500).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/vip 5bhk(22000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/vip room(5000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/vip-r(4000).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jobPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/managerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pickupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchRoomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/updateRoomStatusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/updateStatus.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2d2FWeIoypan2j3llhGBIfKmB9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/PRAC/java/explore/Travel Managenent System",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PRAC\java\explore\Hotel Management System\src\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f999e1-d0fb-434a-a4f0-1f0c4a84751c" name="Changes" comment="" />
+      <created>1709198302237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709198302237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
